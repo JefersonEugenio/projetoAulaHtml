@@ -4,6 +4,7 @@
 }
  body {
     background-image: url('https://png.pngtree.com/background/20210714/original/pngtree-simple-green-football-field-sunny-grass-background-picture-image_1216158.jpg');
+    background-size: cover;
  }
 
 .fotoPerfil {
@@ -33,6 +34,7 @@ ul {
 
 li {
     font-weight: bold;
+    cursor: pointer;
 }
 
 ul li {
@@ -48,6 +50,10 @@ ul li {
     margin: 2%;
     /* display: inline-block; */
     float: left;
+}
+
+.textoMain {
+    
 }
 
 main h3 {
